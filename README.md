@@ -1,15 +1,36 @@
-# Tic-Tac-Toe
+# 🎮 Tic-Tac-Toe Game
 
-Tic-Tac-Toe: The Ultimate Battle of Wits in a 3x3 Arena
+An interactive and responsive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This project demonstrates core game logic, DOM manipulation, and user interaction in a clean web interface.
 
-Tic-Tac-Toe might look simple — just a 3x3 grid and two players scribbling Xs and Os. But behind its basic appearance lies a game of strategy, foresight, and clever traps. It's the ultimate showdown where the smartest moves often come from the most unexpected places.
+---
 
-Players take turns marking empty squares, one with X and the other with O, aiming to be the first to align three of their symbols — horizontally, vertically, or diagonally. The tension builds quickly. One wrong move, and your opponent could
+## 🚀 Live Demo
 
+👉 (Add your live link here if deployed)
 
+---
 
+## ✨ Features
 
+- 🎯 2-player game (X and O)
+- 🔄 Turn-based gameplay
+- 🏆 Automatic winner detection
+- 🤝 Draw detection
+- 📱 Responsive design for all devices
+- ⚡ Smooth and interactive UI
 
+---
 
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## 📸 Screenshots
+
+> 
 
 
